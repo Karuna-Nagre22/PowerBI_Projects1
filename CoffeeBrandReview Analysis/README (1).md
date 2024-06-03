@@ -1,4 +1,4 @@
-### Coffee Roasters Rating Analysis 
+## Coffee Roaster Rating Analysis 
 ### Page 1
 ![Capture1](https://github.com/Karuna-Nagre22/PowerBI_Projects1/assets/169028009/5bdfd03d-6a21-4a6a-95c5-be36866e70bc)
 #### General Metrics:
